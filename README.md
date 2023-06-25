@@ -1,4 +1,6 @@
-# Sprint Challenge: INTRO TO DJANGO - DEPLOY TO HEROKU
+# 0124_lsw19b_sprint_challenge_django
+
+## Sprint Challenge: INTRO TO DJANGO - DEPLOY TO HEROKU
 
 This challenge allows you to practice the concepts and techniques learned over the past week and apply them in a concrete project. This Sprint explored the basics of Django. During this Sprint, you studied how to setup a Django project, build a REST API, and use token authorization. In your challenge this week, you will demonstrate proficiency by taking the application that you built over the course of this week and deploying it! Getting your application out there is a great way to learn, shake out bugs,
 and get feedback as you can share it with others. 
